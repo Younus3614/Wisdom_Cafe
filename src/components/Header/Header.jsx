@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <nav className="flex justify-between items-center w-full max-w-7xl mx-auto px-3 py-4 md:py-8 border-b">
       <h2 className="font-bold text-xl md:text-3xl lg:text-[40px]">
-        Knowledge Cafe
+        Wisdom Cafe
       </h2>
       <div className="flex items-center gap-5 md:gap-10">
         <div className="flex items-center justify-center text-xs sm:text-base font-medium gap-3 md:gap-5 lg:gap-8">
